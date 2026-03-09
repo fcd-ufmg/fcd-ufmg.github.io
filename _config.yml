@@ -16,9 +16,9 @@
 title: Fundamentos de Ciência de Dados
 tagline: Fundamentos de Ciência de Dados
 description: Curso Base do Bacharelado em Ciência de Dados (UFMG)
-author: Flavio Figueiredo
-url: 'https://flaviovdf.github.io/fcd'
-baseurl: '/fcd'
+author: Flavio Figueiredo e Uriel Moreira Silva
+url: 'https://fcd-ufmg.github.io/'
+baseurl: '/'
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,7 +29,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links_new_tab: true
-footer_content: 'Flavio Figueiredo &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Flavio Figueiredo e Uriel Moreira Silva &copy; 2026 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:
